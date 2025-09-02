@@ -1,0 +1,5 @@
+{
+  "name": "Leadership Profiler for JBWRC",
+  "description": "An AI-powered application to diagnose leadership styles based on the Competing Values Framework (CVF) and provide personalized coaching.",
+  "requestFramePermissions": []
+}
